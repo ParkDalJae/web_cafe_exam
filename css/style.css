@@ -133,7 +133,7 @@ width: 22%;
   margin-bottom: 40px;
 }
 .post-data{
-  background: #0bd;
+  background: rgba(63,99,191.0);
   border-radius: 50%;
   color:#fff;
   width: 100px;
